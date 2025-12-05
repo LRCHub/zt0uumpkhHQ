@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Undercover",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-05T04:55:09.936482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Undercover",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_Undercover_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Undercover Man",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/02_Undercover_Man_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Man Undercover",
+      "artist": "Aaliyah",
+      "has_synced": false,
+      "path": "select/03_Man_Undercover_Aaliyah.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Undercover",
+      "artist": "Bassnectar",
+      "has_synced": false,
+      "path": "select/04_Undercover_Bassnectar.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Undercover Agents - Live At Alexandra Palace 2",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/05_Undercover_Agents_-_Live_At_Alexandra_Palace_2_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Undercover",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/06_Undercover_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Undercover Lover",
+      "artist": "Emma Blackery",
+      "has_synced": false,
+      "path": "select/07_Undercover_Lover_Emma_Blackery.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Undercover",
+      "artist": "Kehlani",
+      "has_synced": true,
+      "path": "select/08_Undercover_Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Undercover",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/09_Undercover_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Undercover Genius",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/10_Undercover_Genius_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Undercover Lover",
+      "artist": "Kids In Glass Houses",
+      "has_synced": false,
+      "path": "select/11_Undercover_Lover_Kids_In_Glass_Houses.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Undercover Girl",
+      "artist": "Vanilla Ninja",
+      "has_synced": true,
+      "path": "select/12_Undercover_Girl_Vanilla_Ninja.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Undercover Girl (Unplugged Version)",
+      "artist": "Vanilla Ninja",
+      "has_synced": false,
+      "path": "select/13_Undercover_Girl_(Unplugged_Version)_Vanilla_Ninja.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Undercover",
+      "artist": "Nelly Furtado",
+      "has_synced": true,
+      "path": "select/14_Undercover_Nelly_Furtado.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Undercover",
+      "artist": "Nelly Furtado",
+      "has_synced": false,
+      "path": "select/15_Undercover_Nelly_Furtado.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Undercover",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Undercover_米津玄師.txt"
+    }
+  ]
+}
